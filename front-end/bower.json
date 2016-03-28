@@ -1,0 +1,19 @@
+{
+  "name": "front-end",
+  "homepage": "https://github.com/leying/candidate-test",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.5.3",
+    "bootstrap": "~3.3.6"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
